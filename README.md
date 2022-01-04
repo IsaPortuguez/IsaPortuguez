@@ -61,8 +61,8 @@ I like to get along with the people I work with, contribute and learn.
 
 
 <h3 align="left">GitHub Stats<img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="50"></h3> <a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=IsaPortuguez&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=IsaPortuguez&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
 <a />
      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaPortuguez&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaPortuguez&layout=compact&title_color=007bff&theme=material-palenight) 
 <img src="https://media.giphy.com/media/ZecG55EwJGxkXWRgbp/giphy.gif" width="50"> 
