@@ -55,24 +55,20 @@ I like to get along with the people I work with, contribute and learn.
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="img">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="img">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="img">
-    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-4700E6.svg?logo=eclipse&logoColor=white" alt="img">
-    <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-E6076B.svg?logo=netbeans&logoColor=white" alt="img">
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-E65B12.svg?logo=sublimetext&logoColor=white" alt="img">
+    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white" alt="img">
+    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?logo=sublimetext&logoColor=white" alt="img">
+    <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?logo=netbeans&logoColor=white" alt="img">
 </p>
 
 ## Studies
 Currently studying in the third year of Business Informatics at the University of Costa Rica
 
-## Extra Certifications and Courses
+<!--## Extra Certifications and Courses
 </br>
 <a href='' target='_blank'>
    <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="40" alt="img">
    Javascript 2021 - Udemy
-</a></br>
-<a href='https://ed.team/@isabelportuguezcalderon/curso/reactjs' target='_blank'>
-   <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="40" alt="img">
-   React desde cero (2021) - EDteam
-</a>
+</a></br>-->
 
 <h3 align="left">GitHub Stats</h3> <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=IsaPortuguez&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
