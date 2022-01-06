@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="http://www.ucr.ac.cr">University of Costa Rica</a></br>Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="img"> </em></p>
 
 [![Twitter: IsaPortuguezC](https://img.shields.io/twitter/follow/IsaPortuguezC?style=social)](https://twitter.com/IsaPortuguezC)
-[![Linkedin: IsaPortuguezC](https://img.shields.io/badge/-IsaPortuguezC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/IsaPortuguezC/)](https://www.linkedin.com/in/IsaPortuguezC/)
+[![Linkedin: IsaPortuguezC](https://img.shields.io/badge/-IsaPortuguezC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabel-portuguez-calderón/)](https://www.linkedin.com/in/isabel-portuguez-calder%C3%B3n-142b4b229/)
 [![GitHub IsaPortuguezC](https://img.shields.io/github/followers/IsaPortuguez?label=follow&style=social)](https://github.com/IsaPortuguez)</br></br>
 
 </br>
