@@ -63,12 +63,12 @@ I like to get along with the people I work with, contribute and learn.
 ## Studies
 Currently studying in the third year of Business Informatics at the University of Costa Rica
 
-<!--## Extra Certifications and Courses
+## Extra Certifications and Courses
 </br>
-<a href='' target='_blank'>
+<a href='https://www.udemy.com/certificate/UC-9700ff50-253c-4723-a92c-885b9c20471e/' target='_blank'>
    <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="40" alt="img">
    Javascript 2021 - Udemy
-</a></br>-->
+</a></br>
 
 <h3 align="left">GitHub Stats</h3> <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=IsaPortuguez&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
