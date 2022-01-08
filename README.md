@@ -61,7 +61,7 @@ I like to get along with the people I work with, contribute and learn.
 </p>
 
 ## Studies
-Currently studying in the third year of Business Informatics at the University of Costa Rica
+Currently studying in the third year of Business Informatic at the University of Costa Rica
 
 ## Extra Certifications and Courses
 </br>
