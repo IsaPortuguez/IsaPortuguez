@@ -61,18 +61,22 @@ I like to get along with the people I work with, contribute and learn.
 </p>
 
 ## Studies
-Currently studying in the third year of Business Informatic at the University of Costa Rica
+Currently studying in the fourth year of Business Informatic at the University of Costa Rica
 
 ## Extra Certifications and Courses
-</br>
 <a href='https://www.udemy.com/certificate/UC-9700ff50-253c-4723-a92c-885b9c20471e/' target='_blank'>
-   <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="40" alt="img">
    Javascript 2021 - Udemy
-</a></br>
+</a>
+</br>
+<a href='https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-IsabelPortuguezCalderón-954424.pdf' target='_blank'>
+   Scrum Fundamentals Certified - SCRUMstudy
+</a>
+</br>
 
-<h3 align="left">GitHub Stats</h3> <a href="">
+<h3 align="left">GitHub Stats</h3> 
+<a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=IsaPortuguez&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight" />
-<a />
+<a/>
      
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaPortuguez&layout=compact&theme=material-palenight) 
 <img src="https://media.giphy.com/media/ZecG55EwJGxkXWRgbp/giphy.gif" width="50"> 
